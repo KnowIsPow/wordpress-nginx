@@ -1,3 +1,4 @@
+#Modification of NGINX script by @ryanpq
 #cloud-config
 write_files:
   - path: /etc/nginx/nginx.conf
